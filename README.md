@@ -9,3 +9,5 @@ SQL or the data modeling of the data in the database and focus on the frontend l
 ## Step-by-Step Guide
 For prerequisites, environment setup, step-by-step guide and instructions, please refer to the 
 [QuickStart Guide](https://quickstarts.snowflake.com/guide/build_a_custom_api_in_python/index.html).
+
+docker build -t dataapi . --platform linux/amd64
